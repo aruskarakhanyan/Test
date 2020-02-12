@@ -1,0 +1,31 @@
+/*
+selector = p h2
+id = #valod
+class = .valod */
+/*body {
+    background: coral;
+}*/
+.valod {
+    color:red;
+}
+#poghos {
+    color: blue;
+}
+.greenbg {
+    background: green;
+}
+.guyn {
+    color: darkturquoise;
+}
+.wi {
+    width: 200px;
+}
+.si {
+    width: 500px;
+    color: #250fef;
+    background: #e9c212;
+}
+p.petros {
+    color: red;
+    background: blue;
+}
